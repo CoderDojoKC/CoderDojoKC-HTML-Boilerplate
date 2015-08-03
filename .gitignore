@@ -1,0 +1,10 @@
+### OSX template
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE Files
+/.idea
+/.settings
+.project
+.buildpath
